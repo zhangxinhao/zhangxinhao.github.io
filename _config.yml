@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: inkusean@gmail.com
 description: "Cool Blog"
 keyword: "Xinhao, 鑫豪, 博客, 个人网站"
-url: ""              # your host, for absolute URL
-baseurl: "/page"                             # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://xinhao.space"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
